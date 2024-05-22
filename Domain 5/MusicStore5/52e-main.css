@@ -13,26 +13,29 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 figcaption {
+    color: #032f0d;
     font-weight: bold;
     background-color: #AAEEFF;
     display:inline;
-    color:#032f0d;
 }
 .sale {
-    font-weight:bold;
+    font-weight: bold;
     background-color: #AAEEFF;
     font-style:italic;
+    
 }
 #sidenote {
     background-color: #DDDDDD;
     display:inline;
-    font-weight:bold;
+    font-weight:700;
 }
 a {
     text-decoration: none;
+    color: darkgreen;
 }
 a:hover {
     text-decoration: underline;
     font-weight: bold;
     font-family: 'Palatino Linotype','Times New Roman', serif;
+    color:#63f60a;
 }
