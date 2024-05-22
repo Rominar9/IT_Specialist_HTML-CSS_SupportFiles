@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 figcaption {
-    font-weight: 700;
+    font-weight: bold;
     background-color: #AAEEFF;
     display:inline;
     color:#032f0d;
