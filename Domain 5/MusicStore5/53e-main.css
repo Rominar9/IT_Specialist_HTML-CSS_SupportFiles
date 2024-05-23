@@ -37,6 +37,9 @@ figcaption {
     border-right-width:2px;*/
     border: 2px solid navy;
 }
+#pagewidth {
+    width: 500px;
+}
 a {
     text-decoration: none;
     color:darkgreen;
