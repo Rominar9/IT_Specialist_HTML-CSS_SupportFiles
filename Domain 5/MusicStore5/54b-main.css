@@ -60,4 +60,14 @@ a:hover {
 td.vbot {
     vertical-align:bottom;
     height:30px;
+    background-color: aquamarine;
+    color: cadeblue;
+}
+@media only screen and {max-width: 500px) {
+     body {
+         background-color:white;
+     }                   
+}
+
+    
 }
