@@ -11,7 +11,9 @@ p {
 h1,h2,h3,h4,h5,h6 {
     font-family:Helvetica,Arial,sans-serif;
 }
-
+h1 {
+   font-size: 18pt; 
+}
 figcaption {
     font-weight: bold;
     background-color: #AAEEFF;
@@ -24,11 +26,15 @@ figcaption {
     font-weight:bold;
 }
 .indent {
-    padding:5em;
+    padding: 5em;
 }
 #sidenote {
     background-color: #333333;
     display: inline;
+    font-weight: bold;
+    float: right;
+    width: 200px;
+    height: 200px;
     /*border-color:navy;
     border-style:dashed;
     border-width:0px;
