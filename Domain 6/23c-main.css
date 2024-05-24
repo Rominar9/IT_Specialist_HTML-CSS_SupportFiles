@@ -9,7 +9,7 @@ p {
 a {
     text-decoration:none;
 }
-/* 
+/*
     The background color extends across the page, so we have
     commented it out for now.
 */
@@ -21,6 +21,7 @@ figcaption {
 a:hover {
     text-decoration:underline;
     font-weight:bold;
+    font-family: 'Palatino Linotype', 'Times New Roman', serif;
 }
 .sale {
     font-weight:bold;
