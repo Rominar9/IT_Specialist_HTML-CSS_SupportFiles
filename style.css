@@ -35,7 +35,7 @@ li.dropDown{
 }
 .dropDown-content a:hover{
   background-color:#F1948A;
-  color:pink;
+  color:#CD5C5C;
 }
 .dropDown:hover .dropDown-content{
   display:block;
